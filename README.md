@@ -1,6 +1,3 @@
-<!--
-**nikhil0360/nikhil0360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Nikhil Agarwal</h1>
 <h3 align="center">Developer and Designer</h3>
 
